@@ -57,8 +57,7 @@ public class EnzoXavier {
     String currentMission =
         "Become a highly skilled Software Engineer";
 
-    String philosophy =
-        "Build systems. Solve problems. Keep evolving.";
+   
 }
 ```
 
@@ -78,7 +77,7 @@ public class EnzoXavier {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,hibernate,maven&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet&theme=dark" />
 
 </p>
 
@@ -102,7 +101,7 @@ public class EnzoXavier {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,git,github&theme=dark" />
 
 </p>
 
@@ -204,48 +203,6 @@ MISSION STATUS: IN PROGRESS
 06. Build scalable portfolio projects
 07. Contribute to real-world software
 ```
-
----
-
-# `> GITHUB_ANALYTICS`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[xavier-188](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&count_private=true)&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[xavier-188](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=8)&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=[xavier-188](https://streak-stats.demolab.com?user=&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF)&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="70%" />
-
-</div>
-
----
-
-# `> CONTRIBUTION_ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[xavier-188](https://github-readme-activity-graph.vercel.app/graph?username=&bg_color=0D1117&color=C9D1D9&line=00E5FF&point=FFFFFF&area=true&hide_border=true)&bg_color=0D1117&color=C9D1D9&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-#
-
----
-
-# `> CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/[xavier-188](https://raw.githubusercontent.com//)/[xavier-188](https://raw.githubusercontent.com/SEU_USERNAME//output/github-contribution-grid-snake-dark.svg)/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
-
-</div>
 
 ---
 
