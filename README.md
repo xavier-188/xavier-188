@@ -1,4 +1,4 @@
-## Olá, eu sou o Enzo 👋
+## Olá, eu sou o Enzo 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzoxavierbiscaia@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-xavier-9a47562b8/)
