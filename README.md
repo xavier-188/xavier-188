@@ -1,247 +1,53 @@
-# ◈ ENZO XAVIER — BACKEND DEVELOPER
+## Olá, eu sou o Enzo 👋
 
-<div align="center">
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzoxavierbiscaia@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-xavier-9a47562b8/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:0d1117,100:161b22&text=ENZO%20XAVIER&fontColor=00E5FF&fontSize=55&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20BACKEND%20%7C%20SYSTEMS&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
+Estudante de **Engenharia de Software** na Universidade Positivo (Curitiba, PR), com foco em desenvolvimento **backend**.
 
-<br>
+- 🎓 Cursando o 5º período de Engenharia de Software
+- 💼 Assistente de TI na Miranda Alumínio
+- 🌱 Interesses: backend, APIs, banco de dados e arquitetura de software
+- 📫 Contato: enzoxavierbiscaia@gmail.com
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+SYSTEM...;%3E+LOADING+SOFTWARE+ENGINEER...;%3E+JAVA+%7C+SPRING+BOOT+%7C+SQL+%7C+REACT;%3E+BUILDING+BACKEND+SYSTEMS;%3E+WELCOME+TO+MY+DIGITAL+SPACE." alt="Typing Animation"/>
+### 🛠️ Tecnologias
 
-<br>
+**Backend** ⚙️
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/FOCUS-BACKEND-00E5FF?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/BUILDING-SYSTEMS-00E5FF?style=for-the-badge&labelColor=050505" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-</div>
+**Frontend** 🎨
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## `> SYSTEM.INIT()`
+**Dados** 🗄️
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                 ENZO XAVIER // PROFILE                   ║
-╠══════════════════════════════════════════════════════════╣
-║ STATUS       :: ONLINE                                   ║
-║ ROLE         :: SOFTWARE ENGINEER IN FORMATION           ║
-║ SPECIALTY    :: BACKEND DEVELOPMENT                      ║
-║ ENVIRONMENT  :: JAVA / SPRING / SQL / REACT              ║
-║ OBJECTIVE    :: BUILD • LEARN • DEPLOY • EVOLVE          ║
-╚══════════════════════════════════════════════════════════╝
-```
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
+**Ferramentas** 🧰
 
-# `> ABOUT_ME`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
-<img align="right" width="330" src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+### 📌 Projetos principais
 
-```java
-public class EnzoXavier {
+**[⚔️ java-rpg-poo](https://github.com/xavier-188/java-rpg-poo)**
+RPG de terminal em Java com batalha por turnos, classes, XP e níveis, inventário, boss final e save/load em JSON. Feito para praticar POO: herança, polimorfismo, Factory e camada de serviço.
 
-    String name = "Enzo Xavier";
-    String role = "Software Engineering Student";
-    String focus = "Backend Development";
+**[🍽️ Sistema-Gestao-de-Restaurante](https://github.com/xavier-188/Sistema-Gestao-de-Restaurante)**
+Sistema full stack para gerenciar clientes, mesas e reservas. API REST em C#/ASP.NET Core com Entity Framework Core e SQLite, e front-end em React + TypeScript.
 
-    String[] interests = {
-        "Software Architecture",
-        "Backend Engineering",
-        "APIs & Distributed Systems",
-        "Databases",
-        "Cloud Computing",
-        "Artificial Intelligence"
-    };
+### 📊 GitHub Stats
 
-    String currentMission =
-        "Become a highly skilled Software Engineer";
-
-   
-}
-```
-
-🎓 **Engenharia de Software**
-💻 Focado em **Backend Development**
-⚙️ Construindo APIs, sistemas e aplicações escaláveis
-🧠 Estudando arquitetura, engenharia de software e tecnologias modernas
-🚀 Buscando constantemente transformar conhecimento em projetos reais
-
-<br clear="right"/>
-
----
-
-# `> TECH_STACK`
-
-### `// BACKEND`
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet&theme=dark" />
-
-</p>
-
-### `// FRONTEND`
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,typescript,html,css&theme=dark" />
-
-</p>
-
-### `// DATABASE`
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
-
-</p>
-
-### `// CLOUD & ENGINEERING`
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,git,github&theme=dark" />
-
-</p>
-
----
-
-# `> TOOLKIT`
-
-<div align="center">
-
-|       CATEGORY      | TECHNOLOGIES                            |
-| :-----------------: | :-------------------------------------- |
-|       **IDE**       | IntelliJ IDEA • VS Code                 |
-|       **API**       | REST • Swagger • Postman                |
-|      **BUILD**      | Maven • npm                             |
-| **VERSION CONTROL** | Git • GitHub                            |
-|     **DATABASE**    | PostgreSQL • MySQL • SQLite             |
-|   **METHODOLOGY**   | Scrum • Agile                           |
-|   **ARCHITECTURE**  | MVC • REST • DTO • Layered Architecture |
-|     **SECURITY**    | JWT • Authentication & Authorization    |
-
-</div>
-
----
-
-# `> PROJECTS`
-
-<div align="center">
-
-<a href="https://github.com/SEU_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=restaurant-management-system&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF" />
-</a>
-
-<a href="https://github.com/SEU_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=java-fipe-api&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF" />
-</a>
-
-</div>
-
-<br>
-
-### `01 // RESTAURANT MANAGEMENT SYSTEM`
-
-> Full Stack system designed to manage customers, reservations and restaurant operations.
-
-```text
-BACKEND     → C# / ASP.NET Core / EF Core
-FRONTEND    → React / TypeScript
-DATABASE    → SQLite
-ARCHITECTURE→ REST API
-```
-
-**Features**
-
-* Customer management
-* Reservation system
-* REST API
-* Frontend integration
-* Entity Framework Core
-* API documentation
-
----
-
-### `02 // ACADEMIC EVENT MANAGER`
-
-> Collaborative academic project developed using an Agile/Scrum workflow.
-
-```text
-STACK       → React / TypeScript
-CONCEPTS    → Scrum / REST / Components
-FEATURES    → Events / Registration / Check-in
-```
-
----
-
-# `> CURRENT_MISSION`
-
-```bash
-┌──[ENZO@DEV]─[~/mission]
-└─$ cat objectives.txt
-
-[██████████████████░░] 90%  → Master Java
-[████████████████░░░░] 80%  → Spring Boot
-[███████████████░░░░░] 75%  → Advanced SQL
-[████████████░░░░░░░░] 60%  → Software Architecture
-[██████████░░░░░░░░░░] 50%  → Cloud Computing
-[████████░░░░░░░░░░░░] 40%  → Artificial Intelligence
-
-MISSION STATUS: IN PROGRESS
-```
-
-### `NEXT_TARGETS`
-
-```text
-01. Become stronger in Backend Engineering
-02. Build production-ready APIs
-03. Deepen knowledge of Spring Boot
-04. Improve SQL & database design
-05. Study Cloud & distributed systems
-06. Build scalable portfolio projects
-07. Contribute to real-world software
-```
-
----
-
-# `> CONNECT`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/[enzo-xavier-9a47562b8](https://www.linkedin.com/in//)/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
-</a>
-
-<a href="mailto:[enzoxavierbiscaia@gmai.com](mailto:enzoxavierbiscaia@gmai.com)"> <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
-</a>
-
-<a href="[https://github.com/](https://github.com/xavier-188)[xavier-188](https://github.com/xavier-188)">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╔════════════════════════════════════════════════════╗
-║                                                    ║
-║     "THE FUTURE IS BUILT ONE LINE AT A TIME."      ║
-║                                                    ║
-║                 SYSTEM // ONLINE                  ║
-║                 ACCESS // GRANTED                 ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
-```
-
-<img src="https://komarev.com/ghpvc/?username=[xavier-188](https://komarev.com/ghpvc/?username=&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS)&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" />
-
-<br><br>
-
-**© 2026 Enzo Xavier • Software Engineering**
-
-</div>
+![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavier-188&show_icons=true&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavier-188&layout=compact&theme=github_dark&hide_border=true)
